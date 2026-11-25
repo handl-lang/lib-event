@@ -8,7 +8,7 @@ events are fire-and-forget; listeners are natural arrows.
 ```text
 handl-packages/event/   the .hnl package
 scripts/hnl-gate.sh     the gate
-ci.sh                   bupha entry
+workflows/gate.yaml                   bupha entry (handl-gates)
 ```
 
 ## Gate
